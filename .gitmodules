@@ -4,3 +4,6 @@
 [submodule "Ext/mare"]
 	path = Ext/mare
 	url = https://github.com/craflin/mare.git
+[submodule "Ext/qt"]
+	path = Ext/qt
+	url = http://code.qt.io/qt/qt.git
